@@ -1,0 +1,4 @@
+FROM openjdk:8
+ADD target/clustereddatawarehouse.jar  clustereddatawarehouse.jar
+EXPOSE 8083
+ENTRYPOINT ["java", "-jar", "clustereddatawarehouse.jar"]
