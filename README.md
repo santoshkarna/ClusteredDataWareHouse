@@ -9,7 +9,7 @@ Application is accessible at :
 Upload page - http://localhost:8080/upload
 Search page - http://localhost:8080/search ( Caching implemented )
 Technology Used
-Java 8 , Spring boot 1.5.10 , Maven 3.5.0 , Spring boot JPA , Spring boot thymeleaf , Spring Caching , MySQL         Operating System : macOS Sierra 10.12.3
+Java 8 , Spring boot 1.5.10 , Maven 3.5.0 , Spring boot JPA , Spring boot thymeleaf , Spring Caching , MySQL
 
 Clustered Data Warehouse
 
